@@ -86,3 +86,4 @@ It represents the concept of a smart health and sports analysis app, focusing on
 
 ---
 
+تم عمل المشروع مع زميلتي [@reemfaiz](https://github.com/reemfaiz)
